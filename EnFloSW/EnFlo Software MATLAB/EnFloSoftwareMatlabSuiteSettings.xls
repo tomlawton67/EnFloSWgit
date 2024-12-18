@@ -1,0 +1,5 @@
+TCPIP	Length 	ngrid	OutputFile	
+Comm	String	desired_resolution	Decimal_Places	
+Port	Comm	Polynomial_fitting		
+		7HP	7HP	
+30000	100	512	5	

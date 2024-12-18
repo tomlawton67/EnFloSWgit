@@ -1,0 +1,20 @@
+Target	Z	TI	U	Note
+BL	FS		FS	
+Name	(m)	(%)	(m/s)	
+				
+Example1	15	25.5	0.487251069	Velocities are renormalised at Zref for plotting
+Example1	20	24.3	0.522081252	So units (or normalisation) unimportant
+Example1	25	23.5	0.550803259	
+Example1	30	22.9	0.575439937	
+Example1	35	22.3	0.597127716	
+Example1	45	21.5	0.634252083	
+Example1	55	20.9	0.665545796	
+Example1	65	20.4	0.692771646	
+Example1	80	19.7	0.728169519	
+Example1	100	19	0.768229356	
+Example1	125	18.2	0.810493063	
+Example1	150	17.6	0.846745312	
+Example1	200	16.5	0.907273232	
+Example1	235	15.8	0.943077071	
+Example1	300	14.7	1	
+Example1	360	13.9	1.044728636	

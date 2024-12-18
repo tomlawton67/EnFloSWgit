@@ -1,0 +1,61 @@
+Date	"Thu, Apr 11, 2019"			
+Time	15:29:00 PM			
+Seconds since 1/1/04				
+Hard Disk name				
+				
+DataBase channel names Start				
+				
+Zone	Sub Zone	Name	Action	EOH
+GDW	Project	Num	Concatenate	
+User	Results	Filename	First index	
+User	Results	Pathname	First index	
+Measurement	Start	Date	First index	
+Measurement	Start	Time	First index	
+DataBase	Raw_Data	Folder	Last index	
+DataBase	Measurement	Type	Concatenate	
+Comments			Concatenate	
+GDW-1	Run	Description	Concatenate	
+GDW-2	Run	Description	Concatenate	
+GDW	Turntable	Azimuth	Concatenate	
+GDW	Turntable	Number	Concatenate	
+GD-W	Temp	(C)	Average	
+GD-W	Press	(mBar)	Average	
+GDW	Speed	Dem Velocity	Concatenate	
+VFD-W	Power	(kW)	Average	
+VFD-W	Energy	Value	Last index	
+VFD-W	Energy	Format	Last index	
+VFD-W	Energy	Units	Last index	
+GDW Metadata	Spire1	Tips	Concatenate	
+BLS-W	Trip[1]	Req(mm)	Concatenate	
+BLS-W	Trip[1]	Ach(mm)	Concatenate	
+BLS-W	Trip[2]	Req(mm)	Concatenate	
+BLS-W	Trip[2]	Ach(mm)	Concatenate	
+BLS-W	Spires[1]	Req(mm)	Concatenate	
+BLS-W	Spires[1]	Ach(mm)	Concatenate	
+BLS-W	Spires[2]	Req(mm)	Concatenate	
+BLS-W	Spires[2]	Ach(mm)	Concatenate	
+BLS-W	Main[1]	Req(mm)	Concatenate	
+BLS-W	Main[1]	Ach(mm)	Concatenate	
+BLS-W	Main[2]	Req(mm)	Concatenate	
+BLS-W	Main[2]	Ach(mm)	Concatenate	
+BLS-W	Main[3]	Req(mm)	Concatenate	
+BLS-W	Main[3]	Ach(mm)	Concatenate	
+BLS-W	Boost[1]	Req(mm)	Concatenate	
+BLS-W	Boost[1]	Ach(mm)	Concatenate	
+BLS-W	Boost[2]	Req(mm)	Concatenate	
+BLS-W	Boost[2]	Ach(mm)	Concatenate	
+BLS-W	Boost[3]	Req(mm)	Concatenate	
+BLS-W	Boost[3]	Ach(mm)	Concatenate	
+DataBase	X Axis	Max	Do Nothing	
+DataBase	X Axis	Min	Do Nothing	
+DataBase	Y Axis	Max	Do Nothing	
+DataBase	Y Axis	Min	Do Nothing	
+DataBase	Z Axis	Max	Do Nothing	
+DataBase	Z Axis	Min	Do Nothing	
+DataBase	No of	Measurements	Do Nothing	
+DataBase	Av Meas	Frequency (Hz)	Average	
+DataBase	Av Meas	Time (min)	Average	
+EOD				
+				
+				
+DataBase channel names End				

@@ -1,0 +1,30 @@
+Used Files in Folder "Pololu\Tic\SubVIs" as of 11/26/2019:
+BuildCommand.vi				Used
+commandClusterRebuilder.vi		Not Used
+CheckArgsInRange.vi			Used
+Decode32bitRead.vi			Not Used
+Decode32bitTicRead.vi			Not Used
+Encode32bitWrite.vi			Used
+EncodeAddress.vi			Used
+GetTicVariable.vi			Used
+ParsePololuTicStatus.vi			Used
+ParseTicNumber.vi			Used
+PololuCommand.ctl			Used
+PololuCommandDescriptor.ctl		Used
+PololuGetCommand.vi			Used
+PololuMacroCommands.vi			Used
+PololuTicMakeCommand.vi			Not Used
+PololuTicSendCommand.vi			Used
+TicAddressStyle.ctl			Used
+TicCommandType.ctl			Used
+TicMove-temp.vi				Not Used
+TicProcedure.ctl			Used
+TicReplyStyle.ctl			Used
+TicVariableReference.txt		Not Used, but from Pololu
+TicVariableReference.vi			Used
+TicVariableReference.xlsx		Not Used, but from Pololu
+TicVariableReferenceParsed.txt		Used
+TicVariableReferenceParsed.xlsx		Has Hyperlinks, but slightly wrong
+TrimOffTopBit.vi			Used	
+VariableDescriptor.ctl			Used
+xxPololuCommand.vi			Not Used

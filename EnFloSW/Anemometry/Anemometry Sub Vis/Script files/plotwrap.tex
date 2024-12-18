@@ -1,0 +1,17 @@
+\documentclass{article}
+
+% Gnuplot produces eps, so don't need graphicx etc
+\usepackage{graphics} 
+\usepackage{amssymb} 
+\usepackage[pdftex]{graphicx} 
+\usepackage{epstopdf} 
+\usepackage{color} 
+\usepackage[cp1252]{inputenc}
+
+% This tells it that it's just a little picture, not a full page
+\pagestyle{empty} 
+
+% Brings in the LaTeX file made by gnuplot, which itself includes the EPS graphic plot
+\begin{document} 
+\include{Plot} 
+\end{document}  

@@ -1,0 +1,12 @@
+Column	Column	Column	Added	Added	Templated	Templated
+A	B	C	Meta	Point	Meta	Point
+Data	Data	Data	Data	Data	Data	Data
+			Modified 2023-07-23 15:25	Modified 2023-07-23 15:26	Modified 2023-07-23 15:36	Modified 2023-07-23 15:49
+1	1	A			Filtered for A	
+1	2	A	Filtered for A		Filtered for A	
+1	3	B	Filtered for A			
+1	4	B				Point 1,4, B
+2	1	A		Point 1, 4, B	Filtered for A	
+2	2	A	Filtered for A		Filtered for A	
+2	3	B	Filtered for A			
+2	4	B				

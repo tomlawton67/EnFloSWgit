@@ -1,0 +1,56 @@
+LDA Dimensions	2D
+BSA 1 Probe_Info	27mm_2D SN=157 Fibre=Green BS=15.47
+BSA 1 Laser_Info	Coherent Genesis MX (514nm) WL=513.6
+BSA 1 BSA_Info	F60 SN=529 Ch=0 WL=514nm
+BSA 1 Lense_Info	27mm FL=160 SN=1 Actual FL=160
+BSA 1 Req Sampling Rate Hz	100
+BSA 1 Calibration factor	5.31816234E-6
+BSA 1 Centre Velocity (m/s)	0.623225
+BSA 1 Velocity Range (m/s)	4.985798
+BSA 1 Min Record length	64
+BSA 1 Max Record length	256
+BSA 1 Focal Length (mm)	160
+BSA 1 Beam Separation (mm)	15.470000
+BSA 1 IP Number	10.10.100.100
+BSA 1 Component	U
+BSA 1 Multiply Velocity by -1	FALSE
+BSA 1 Wavelength (nm)	513.600
+BSA 1 High Voltage	1400
+BSA 1 Signal gain (dB)	28
+BSA 1 Ch No	0
+BSA 1 Max Velocity	3.1161
+BSA 1 Min Velocity	-1.8697
+BSA 1 Bandwidth	937504
+BSA 1 Centre frequency	117188
+BSA 1 Burst_Detector_Signal_to_Noise_Ratio	0
+BSA 1 Level_Validation_Ratio	4
+BSA 1 Unshifted (mW)	15
+BSA 1 Shifted (mW)	12
+BSA 2 Probe_Info	27mm_2D SN=157 Fibre=Blue BS=15.42
+BSA 2 Laser_Info	Coherent Genesis MX (488nm) WL=488.1
+BSA 2 BSA_Info	F60 SN=529 Ch=1 WL=488nm
+BSA 2 Lense_Info	27mm FL=160 SN=1 Actual FL=160
+BSA 2 Req Sampling Rate Hz	100
+BSA 2 Calibration factor	5.07046811E-6
+BSA 2 Centre Velocity (m/s)	0
+BSA 2 Velocity Range (m/s)	4.753584
+BSA 2 Min Record length	64
+BSA 2 Max Record length	256
+BSA 2 Focal Length (mm)	160
+BSA 2 Beam Separation (mm)	15.420000
+BSA 2 IP Number	10.10.100.100
+BSA 2 Component	W
+BSA 2 Multiply Velocity by -1	FALSE
+BSA 2 Wavelength (nm)	488.100
+BSA 2 High Voltage	1400
+BSA 2 Signal gain (dB)	28
+BSA 2 Ch No	1
+BSA 2 Max Velocity	2.3768
+BSA 2 Min Velocity	-2.3768
+BSA 2 Bandwidth	937504
+BSA 2 Centre frequency	0
+BSA 2 Burst_Detector_Signal_to_Noise_Ratio	0
+BSA 2 Level_Validation_Ratio	4
+BSA 2 Unshifted (mW)	7
+BSA 2 Shifted (mW)	12
+LDA_Angular_Alignment_Tweak_Deg	0

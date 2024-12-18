@@ -1,0 +1,62 @@
+;
+; Copyright 2020 Surrey Sensors Ltd. (http://www.surreysensors.com/)
+;
+; Developed by Paul Nathan.
+;
+
+[Strings]
+DriverPackageDisplayName="Surrey Sensors USB Driver"
+ManufacturerName="Surrey Sensors Ltd. (http://www.surreysensors.com/)"
+ServiceName="USB Serial Driver"
+Devicename="Surrey Sensors MCU-32 USB"
+
+[DefaultInstall]
+CopyINF=SSL32.inf
+
+[Version]
+Class=Ports
+ClassGuid={4D36E978-E325-11CE-BFC1-08002BE10318}
+Signature="$Windows NT$"
+Provider=%ManufacturerName%
+DriverPackageDisplayName=%DriverPackageDisplayName%
+CatalogFile=SSL32.cat
+; DriverVer date is MM/DD/YYYY
+DriverVer=06/18/2020,1.0.0.1
+
+[Manufacturer]
+%ManufacturerName%=DeviceList, NTamd64, NTia64
+
+[DestinationDirs]
+FakeModemCopyFileSection=12
+DefaultDestDir=12
+
+[DeviceList]
+%Devicename%=DriverInstall, USB\VID_1FC9&PID_828D
+
+[DeviceList.NTamd64]
+%Devicename%=DriverInstall, USB\VID_1FC9&PID_828D
+
+[DeviceList.NTia64]
+%Devicename%=DriverInstall, USB\VID_1FC9&PID_828D
+
+[DriverInstall]
+include=mdmcpq.inf,usb.inf
+CopyFiles=FakeModemCopyFileSection
+AddReg=DriverAddReg
+
+[DriverAddReg]
+HKR,,DevLoader,,*ntkern 
+HKR,,NTMPDriver,,usbser.sys 
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[DriverInstall.Services]
+include=mdmcpq.inf
+AddService=usbser, 0x00000002, DriverService
+
+[DriverService]
+DisplayName=%ServiceName%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\usbser.sys
+LoadOrderGroup=Base

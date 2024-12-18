@@ -1,0 +1,52 @@
+Log Folder Name	/Applications/National Instruments/LabVIEW 2021 64-bit										
+*************	*************	*************	*************	*************	*************	*************	*************	*************	*************	*************	
+Target	Z	U	TI	U	U_{ref}	n	Template	Current	Current	Raw	Seconds
+BL	FS	FS		/U_{ref}	FS	PowerLaw	File	Filepath	File	Data	since
+Name	(m)	(m/s)	(%)		(m/s)	Exponent	Used			Filename	1st Jan
+											
+Target:BL:Name	Z:FS:(m)	U:FS:(m/s)	TI::(%)	U:/U_{ref}:	U_{ref}:FS:(m/s)	n:PowerLaw:Exponent	Template:File:Used	Current:Filepath:	Current:File:	Raw:Data:Filename	Seconds:since:1st Jan
+											
+**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**
+**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**
+											
+**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**
+1	0.5	1	5	0.1	1	0.1	0	0	1	0	0
+**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**
+											
+**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**
+**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**
+											
+**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**
+If Blank	If Blank	If Blank	If Blank	If Blank	If Blank	If Blank	Never	Never	If Blank	Never	Never
+**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**
+											
+**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**
+FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**
+											
+**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**
+Target:BL:Name	Z:FS:(m)	U:FS:(m/s)	TI::(%)	U:/U_{ref}	U_{ref}:FS:(m/s)	n:PowerLaw:Exponent	 	 	Current:File:	Current:Filepath:	Do not prompt me if this channel is not found
+Do not prompt me if this channel is not found	Do not prompt me if this channel is not found	Do not prompt me if this channel is not found	Do not prompt me if this channel is not found	Do not prompt me if this channel is not found	Do not prompt me if this channel is not found	Do not prompt me if this channel is not found	 	 	 	 	 
+**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**
+											
+**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**
+**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**
+											
+**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**
+ 	 	 	 	<<U:FS:(m/s)>>/<<U_{ref}:FS:(m/s)>>	 	 	 	 	 	 	 
+**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**
+											
+**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**
+**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**
+											
+**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**
+**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**
+											
+**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**
+**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**
+											
+**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**
+**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**
+											
+**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**
+**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**

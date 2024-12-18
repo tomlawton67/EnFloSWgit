@@ -1,0 +1,52 @@
+Log Folder Name	/Applications/National Instruments/LabVIEW 2021 64-bit
+*************	*************	*************	*************	*************	*************	*************	*************	*************	*************	
+Current	Template	Brewer	Colour	Number	Type	Critical	Colour	Colour	R	G	B	Raw	Seconds	Percent
+Filepath	File	Row	Palette	of	of	Value	Ramp	Letter				Data	since	of
+	Used	Number	Name	Steps	Data		Slot					Filename	1st Jan	Scale
+														
+Current:Filepath:	Template:File:Used	Brewer:Row:Number	Colour:Palette:Name	Number:of:Steps	Type:of:Data	Critical:Value:	Colour:Ramp:Slot	Colour:Letter:	R::	G::	B::	Raw:Data:Filename	Seconds:since:1st Jan	Percent:of:Scale
+														
+**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**	**Description Start**
+**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**	**Description End**
+														
+**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**	**Tolerance Start**
+1.000000	1.000000	0.400000	1.000000	0.400000	1.000000	0.200000	0.400000	1.000000	1.000000	1.000000	1.000000	0.000000	0.000000	1.000000
+**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**	**Tolerance End**
+														
+**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**	**Precision Start**
+**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**	**Precision End**
+														
+**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**	**Dispose Start**
+Never	Never	If Blank	If Blank	If Blank	If Blank	If Blank	If Blank	If Blank	If Blank	If Blank	If Blank	Never	Never	If Blank
+**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**	**Dispose End**
+														
+**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**	**Summarise Start**
+FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**	**Summarise End**
+														
+**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**	**Source Start**
+Current:Filepath:	Template:File:Used	Brewer:Row:Number	Colour:Palette:Name	Number:of:Steps	Type:of:Data	Critical:Value:	Colour:Ramp:Slot	Colour:Letter:	R::	G::	B::	Do not prompt me if this channel is not found	Do not prompt me if this channel is not found	Percent:of:Scale
+**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**	**Source End**
+														
+**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**	**Replace Start**
+**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**	**Replace End**
+														
+**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**	**Maths Start**
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	100*<<Colour:Ramp:Slot>>/<<Number:of:Steps>>
+**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**	**Maths End**
+														
+**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**	**Omit Start**
+**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**	**Omit End**
+														
+**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**	**Folder level Start**
+**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**	**Folder level End**
+														
+**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**	**Minimum Value Start**
+**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**	**Minimum Value End**
+														
+**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**	**Maximum Value Start**
+**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**	**Maximum Value End**
+														
+**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**	**Ignore When Start**
+**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**	**Ignore When End**
+														

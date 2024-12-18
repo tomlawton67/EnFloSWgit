@@ -1,0 +1,21 @@
+Plan_View_Width	X
+Plan_View_Height	Y
+Side_View_Width	X
+Side_View_Height	Z
+Front_View_Width	Y
+Front_View_Height	Z
+
+Which_Axis_Is Vertical	Z
+
+
+Co-ordinate Transform	False
+Get Roll Deg from Adam Channel Named	
+Get Pitch Deg from Adam Channel Named	
+Get Yaw Deg from Adam Channel Named	EnFlo_Tunnel:Wind:Direction Deg
+
+Traverse Computer IP Number	131.227.181.41
+Maximum Step Size (mm) for checking Trajectory	130
+
+Adam Channel for X Model	EnFlo_Tunnel:Source_Pos:X_Model
+Adam Channel for Y Model	EnFlo_Tunnel:Source_Pos:Y_Model
+Adam Channel for Z Model	EnFlo_Tunnel:Source_Pos:Z

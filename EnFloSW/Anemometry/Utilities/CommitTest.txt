@@ -1,0 +1,14 @@
+A file to use to check if commits are working; modify as you like!
+
+From:YYYYMMDDHHMMZ
+
+TCL:201803091655MST -that worked from Snailsvn, after relocating to https
+
+TCL:201803091711MST -now going to try from Cornerstone
+
+SYSMBP2:201803091738MST -trying with snail
+
+SYSMBP2:201804131007MST -clean new working copy
+
+SYSMBP2:20211015 - checking I'm on a branch
+

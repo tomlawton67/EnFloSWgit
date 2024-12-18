@@ -1,0 +1,1 @@
+Simply open it in the Arduino IDE, select the board as an Arduino/Genuino Micro (tools menu), connect via USB (you’ll need to carefully open the case), select the COM port (also tools menu), then upload (sketch menu, upload). I have also attached a screenshot showing the line to modify, should you wish to switch between the two speeds in the future again.

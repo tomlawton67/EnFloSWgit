@@ -1,0 +1,20 @@
+Target	Z	TI	n
+BL	FS		PowerLaw
+Name	(m)	(%)	Exponent
+			
+Example	15	25.5	0.2
+Example	20	24.3	0.2
+Example	25	23.5	0.2
+Example	30	22.9	0.2
+Example	35	22.3	0.2
+Example	45	21.5	0.2
+Example	55	20.9	0.2
+Example	65	20.4	0.2
+Example	80	19.7	0.2
+Example	100	19	0.2
+Example	125	18.2	0.2
+Example	150	17.6	0.2
+Example	200	16.5	0.2
+Example	235	15.8	0.2
+Example	300	14.7	0.2
+Example	360	13.9	0.2

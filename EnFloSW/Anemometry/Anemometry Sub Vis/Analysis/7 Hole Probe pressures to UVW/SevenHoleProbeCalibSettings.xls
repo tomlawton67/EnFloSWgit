@@ -1,0 +1,5 @@
+ngrid	OutputFile	TCPIP
+desired_resolution	Decimal_Places	Comm
+Polynomial_fitting		Port
+		
+512	5	30000
